@@ -1,0 +1,2 @@
+Uva|3|Frutas|235
+Melancia|1|Frutas|235

@@ -1,0 +1,2 @@
+banana|5|frutas|joao|maria|5|27-02-2024
+maca|7|frutas|joao|maria|5|27-02-2024
